@@ -346,6 +346,7 @@
 "Assets/PlayerScript/CameraFollow.cs"
 "Assets/PlayerScript/PlayerMove8.cs"
 "Assets/Script/FadeIn.cs"
+"Assets/Script/MenuButton.cs"
 "Assets/Script/OpenSetting.cs"
 "Assets/Sounds/Musician.cs"
 "Assets/Sounds/Sounder.cs"
